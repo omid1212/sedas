@@ -219,9 +219,9 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {158492446},--Sudo users
+    sudo_users = {158492446,70480064},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {46642660},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
     
